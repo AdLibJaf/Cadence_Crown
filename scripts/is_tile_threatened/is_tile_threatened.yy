@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"is_tile_threatened",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"is_tile_threatened",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_stun_timers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_stun_timers",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
